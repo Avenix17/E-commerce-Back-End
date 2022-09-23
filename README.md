@@ -18,7 +18,7 @@ Within db folder:
 Seed database in main folder by command-line command:
 `node seeds/index.js`
 
-Invoke application: `node server.js`
+Initialize application: `node server.js`
 
 ## Walkthrough Video
 
